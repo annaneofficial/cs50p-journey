@@ -38,4 +38,4 @@ This course has been an exciting challenge so far! I'm looking forward to diving
 ---
 
 ⭐ **Star this repo** to follow my journey!  
-🔗 **Connect with me**: [Your GitHub Profile](https://github.com/annaneofficial)
+🔗 **Connect with me**: [Linkedin](https://www.linkedin.com/in/hamza-annane-592a5a255/)
