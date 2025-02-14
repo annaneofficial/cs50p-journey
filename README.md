@@ -20,8 +20,8 @@ Welcome to my journey through **CS50's Introduction to Programming with Python**
 ## **Weekly Progress**
 | Week | Topic                          | Status       | Link to Notes |
 |------|--------------------------------|--------------|---------------|
-| 00   | Functions, Variables, Loops   | ✅ Completed  | [Week 00](./week00) |
-| 01   | (Next week's topic)            |⏳ In Progr.. | [Week 01](./week01) |
+| 00   | Functions, Variables   | ✅ Completed  | [Week 00](./week00) |
+| 01   | Conditionals            |✅ Completed | [Week 01](./week01) |
 | ...  | ...                            | ...           | ...                 |
 
 ---
